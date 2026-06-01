@@ -27,7 +27,7 @@ This project is for educational and learning purposes only. It is not intended t
 
 git clone https://github.com/WasselD/keylogger.git
 
-cd KL
+cd keylogger
 
 # (Recommended) create virtual environment
 
