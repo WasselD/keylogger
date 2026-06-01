@@ -25,7 +25,7 @@ This project is for educational and learning purposes only. It is not intended t
 
 ```bash
 
-git clone https://github.com/WasselSec/keylogger.git
+git clone https://github.com/WasselD/keylogger.git
 
 cd KL
 
